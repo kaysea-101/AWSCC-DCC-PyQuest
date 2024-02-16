@@ -3,13 +3,14 @@
 
 # Write the code ↓ to read user's input.
 
-
-
+name = input("Indicate your name: ")
+department = input("Enter your AWS Cloud Club department: ")
+galaxy = input("Specify the galaxy which you belong: ")
 
 
 # Write the code ↓ to display the department's caption.
 # Select and employ a string concatenation method based on your personal preference and comfort level.
 
-
+print("🚀Deploying...I'm " + name + " representing the " + department + " I'm thrilled to commence our expedition into the vast and uncharted realm of the " + galaxy + " Together, we'll navigate this exciting frontier of technology! 🌌🌟💻 ")
 
 
