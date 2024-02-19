@@ -21,4 +21,5 @@ file = open('day-06\example.txt', "r")
 # Read and print the content
 content = file.read()
 print(content)
+file.close()
 
