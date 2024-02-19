@@ -2,7 +2,7 @@ import pandas as pd
 import seaborn as sns 
 import matplotlib.pyplot as plt 
 
-df = pd.read_csv('employees.csv') # i replaced the value inside into a relative path
+df = pd.read_csv('employees.csv') 
 
 sns.set(style="whitegrid")
 plt.figure(figsize=(10, 6))
@@ -12,5 +12,5 @@ plt.xlabel('Gender')
 plt.ylabel('Average Salary')
 plt.show()
 
-df = pd.read_csv('employees.csv') # i replaced the value inside into a relative path
+df = pd.read_csv('employees.csv') 
 print(df)
