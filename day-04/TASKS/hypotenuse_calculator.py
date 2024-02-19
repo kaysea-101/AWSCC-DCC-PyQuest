@@ -39,6 +39,6 @@ while True: # the program can ask again when the program catches an error (alpha
     print("Invalid Input. Try again with float value.")
     # the display here only works after the user has input on both a and b. (after b it shows the string Invalid Input given that the user inputs an Invalid input on input_a or input_b)
 
-
+# kahit pala hindi i-function HAHAHAHAHA bwct
 
 
